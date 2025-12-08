@@ -1,4 +1,4 @@
-Task 1 – Data Cleaning & Preprocessing
+**Task 1 – Data Cleaning & Preprocessing**
 
 This folder contains my submission for Task 1 of the Data Analyst Internship.
 The objective of this task was to clean a raw dataset by handling missing values, fixing formatting issues, and preparing the data for future analysis.
@@ -15,6 +15,7 @@ The objective of this task was to clean a raw dataset by handling missing values
 
 
 **Task Objective**
+
 To perform data cleaning operations such as:
 
 -Handling missing values
