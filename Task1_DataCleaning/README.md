@@ -1,51 +1,52 @@
 Task 1 – Data Cleaning & Preprocessing
+
 This folder contains my submission for Task 1 of the Data Analyst Internship.
 The objective of this task was to clean a raw dataset by handling missing values, fixing formatting issues, and preparing the data for future analysis.
 
--Files Included
+*Files Included*
 
-netflix_raw(dataset).xlsx :	Original raw dataset
+-netflix_raw(dataset).xlsx :	Original raw dataset
 
-netflix_cleaned_FINAL.csv :	Fully cleaned dataset after preprocessing
+-netflix_cleaned_FINAL.csv :	Fully cleaned dataset after preprocessing
 
-summary.md : has detailed explanation of the cleaning steps performed
+-summary.md : has detailed explanation of the cleaning steps performed
 
-README.md	: Documentation of Task 1
+-README.md	: Documentation of Task 1
 
 
--Task Objective
+*Task Objective*
 To perform data cleaning operations such as:
 
-Handling missing values
+-Handling missing values
 
-Removing duplicates
+-Removing duplicates
 
-Standardizing text formats
+-Standardizing text formats
 
-Fixing inconsistent date formats
+-Fixing inconsistent date formats
 
-Removing unwanted or empty columns
+-Removing unwanted or empty columns
 
-Ensuring correct data types
-
-
--Dataset Summary (After Cleaning)
-
-Rows: 10
-
-Columns: 12 (after removing empty "Unnamed" columns)
-
-No missing values remain
-
-No duplicates remain
-
-Date formats uniform
+-Ensuring correct data types
 
 
--Tools Used
+*Dataset Summary (After Cleaning)*
 
-Python (Pandas) for data cleaning
+-Rows: 10
 
-Excel for dataset review
+-Columns: 12 (after removing empty "Unnamed" columns)
 
-GitHub for version control and submission
+-No missing values remain
+
+-No duplicates remain
+
+-Date formats uniform
+
+
+*Tools Used*
+
+-Python (Pandas) for data cleaning
+
+-Excel for dataset review
+
+-GitHub for version control and submission
