@@ -3,7 +3,7 @@ Task 1 – Data Cleaning & Preprocessing
 This folder contains my submission for Task 1 of the Data Analyst Internship.
 The objective of this task was to clean a raw dataset by handling missing values, fixing formatting issues, and preparing the data for future analysis.
 
-*Files Included*
+**Files Included**
 
 -netflix_raw(dataset).xlsx :	Original raw dataset
 
@@ -14,7 +14,7 @@ The objective of this task was to clean a raw dataset by handling missing values
 -README.md	: Documentation of Task 1
 
 
-*Task Objective*
+**Task Objective**
 To perform data cleaning operations such as:
 
 -Handling missing values
@@ -30,7 +30,7 @@ To perform data cleaning operations such as:
 -Ensuring correct data types
 
 
-*Dataset Summary (After Cleaning)*
+**Dataset Summary (After Cleaning)**
 
 -Rows: 10
 
@@ -43,7 +43,7 @@ To perform data cleaning operations such as:
 -Date formats uniform
 
 
-*Tools Used*
+**Tools Used**
 
 -Python (Pandas) for data cleaning
 
