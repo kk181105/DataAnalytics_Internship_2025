@@ -1,0 +1,11 @@
+show_id,type,title,director,cast,country,date_added,release_year,rating,duration,listed_in,description
+s1,Movie,Inception,Christopher Nolan,"Leonardo DiCaprio, Joseph Gordon-Levitt",USA,01-01-2020,2010,PG-13,148 min,"Sci-Fi, Thriller",A thief steals corporate secrets through dream-sharing tech.
+s2,TV Show,Stranger Things,Unknown,"Millie Bobby Brown, Finn Wolfhard",USA,15-07-2016,2016,TV-14,3 Seasons,"Horror, Sci-Fi",Kids uncover supernatural mysteries in their town.
+s3,Movie,The Irishman,Martin Scorsese,"Robert De Niro, Al Pacino",USA,27-11-2019,2019,R,209 min,"Crime, Drama",Hitman drama revolving around aging mobster life.
+s4,Movie,Bird Box,Susanne Bier,"Sandra Bullock, Trevante Rhodes",USA,21-12-2018,2018,TV-MA,124 min,"Horror, Thriller",A mother and her kids try to survive mysterious forces.
+s5,TV Show,Dark,Unknown,"Louis Hofmann, Lisa Vicari",Germany,01-12-2017,2017,TV-MA,3 Seasons,"Sci-Fi, Mystery",A boy investigates a time-travel conspiracy.
+s6,Movie,Extraction,Sam Hargrave,"Chris Hemsworth, Rudhraksh Jaiswal",USA,07-04-2020,2020,R,117 min,"Action, Thriller",A black-market mercenary embarks on a deadly mission.
+s7,TV Show,Money Heist,Unknown,"Ãšrsula CorberÃ³, Ãlvaro Morte",Spain,01-05-2017,2017,TV-MA,5 Seasons,"Crime, Thriller",Robbers plan heists led by The Professor.
+s8,Movie,The Old Guard,Gina Prince-Bythewood,"Charlize Theron, KiKi Layne",USA,10-07-2020,2020,R,125 min,"Action, Fantasy",A warrior leads an immortal group in combat.
+s9,Movie,Enola Holmes,Harry Bradbeer,"Millie Bobby Brown, Henry Cavill",UK,23-09-2020,2020,PG-13,123 min,"Mystery, Adventure",Teen detective solves a royal mystery.
+s10,TV Show,Lucifer,Unknown,"Tom Ellis, Lauren German",USA,01-01-2016,2016,TV-14,6 Seasons,"Fantasy, Crime",A devil works with LAPD to punish criminals.
