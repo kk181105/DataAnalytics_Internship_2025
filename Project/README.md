@@ -96,13 +96,13 @@ Healthcare-NoShow-Prediction/
 
 ## Key Insights
 
--Elderly patients have a higher likelihood of missing appointments
+-Patients who are older have an increased chance of not attending their scheduled appointment.
 
--Extreme weather conditions increase no-show rates
+-No-show rates increase during periods of severe weather.
 
--Patient dependency and appointment timing significantly impact attendance
+-The amount of dependence a patient has on someone else and when they schedule their appointment alters a patient's willingness to show up.
 
--Certain months show higher seasonal no-show trends
+-Months of the year experience higher seasonal patterns of no-shows than other months of the year.
 
 ## Optimization Recommendations
 
