@@ -124,4 +124,4 @@ Healthcare-NoShow-Prediction/
 
 ## Conclusion
 
-This project demonstrates an end-to-end data analytics and machine learning workflow, transforming raw healthcare data into predictive insights and business-ready recommendations.
+By converting unprocessed healthcare data into predictive insights and recommendations that are ready for business use, this project exemplifies an end-to-end data analytics and machine learning workflow.
