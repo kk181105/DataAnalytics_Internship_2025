@@ -31,12 +31,19 @@ The solution combines data cleaning, predictive modeling, and interactive dashbo
 
 Healthcare-NoShow-Prediction/
 │
+
 ├── healthcare_dataset.csv
+
 ├── healthcare_dataset_cleaned.csv
+
 ├── Healthcare_PythonDataCleaning.ipynb
+
 ├── Healthcare_PredictionModel.ipynb
+
 ├── feature_importance.csv
+
 ├── powerbi_dashboard.pbix
+
 └── README.md
 
 ## Workflow
