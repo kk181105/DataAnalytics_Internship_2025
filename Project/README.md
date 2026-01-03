@@ -30,6 +30,7 @@ The solution combines data cleaning, predictive modeling, and interactive dashbo
 ## Project Structure
 
 Healthcare-NoShow-Prediction/
+
 │
 
 ├── healthcare_dataset.csv
