@@ -1,9 +1,8 @@
 # Project Overview
 
-Missed healthcare appointments cause revenue loss, inefficient scheduling, and delayed patient care.
-This project aims to predict whether a patient will miss a scheduled appointment and analyze key factors influencing no-shows using machine learning and data visualization.
+When patients miss their healthcare appointments, this expense will directly result in lost revenue, inefficiently scheduled appointments or delays in patient care. The purpose of this project is to utilize machine learning and data visualization to be predictive of whether or not a patient will miss their scheduled appointment, as well as to analyse the elements that impact "no-shows".
 
-The solution combines data cleaning, predictive modeling, and interactive dashboards to help healthcare providers optimize appointment scheduling and improve patient attendance.
+The solution will incorporate data cleaning, predictive models and interactive dashboards that are designed to assist providers in maximizing appointment scheduling and enhancing attendance by patients.
 
 ## Objectives
 
