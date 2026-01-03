@@ -1,11 +1,11 @@
-Project Overview
+# Project Overview
 
 Missed healthcare appointments cause revenue loss, inefficient scheduling, and delayed patient care.
 This project aims to predict whether a patient will miss a scheduled appointment and analyze key factors influencing no-shows using machine learning and data visualization.
 
 The solution combines data cleaning, predictive modeling, and interactive dashboards to help healthcare providers optimize appointment scheduling and improve patient attendance.
 
-Objectives
+## Objectives
 
 -Predict patient no-shows using a machine learning model
 
@@ -15,7 +15,7 @@ Objectives
 
 -Provide actionable insights and optimization recommendations
 
-Tools & Technologies
+## Tools & Technologies
 
 -Python (Pandas, NumPy, Scikit-learn)
 
@@ -27,7 +27,8 @@ Tools & Technologies
 
 -CSV Dataset
 
-Project Structure
+## Project Structure
+
 Healthcare-NoShow-Prediction/
 │
 ├── healthcare_dataset.csv
@@ -38,7 +39,8 @@ Healthcare-NoShow-Prediction/
 ├── powerbi_dashboard.pbix
 └── README.md
 
-Workflow
+## Workflow
+
 🔹 Step 1: Data Cleaning & Preprocessing
 
 -Removed irrelevant columns
@@ -63,7 +65,7 @@ Workflow
 
 -Extracted feature importance to understand influencing factors
 
-Output:
+*Output:
 
 -No-show predictions (Yes/No)
 
@@ -73,7 +75,7 @@ Output:
 
 -Built an interactive Power BI dashboard
 
-Visualized:
+*Visualized:
 
 -Overall no-show rate
 
@@ -85,7 +87,7 @@ Visualized:
 
 -Enabled filters for dynamic analysis
 
-Key Insights
+## Key Insights
 
 -Elderly patients have a higher likelihood of missing appointments
 
@@ -95,7 +97,7 @@ Key Insights
 
 -Certain months show higher seasonal no-show trends
 
-Optimization Recommendations
+## Optimization Recommendations
 
 -Send targeted SMS reminders to high-risk patients
 
@@ -105,7 +107,7 @@ Optimization Recommendations
 
 -Apply smart overbooking strategies for low-risk slots
 
-Results
+## Results
 
 -Successfully built a predictive model for healthcare appointment no-shows
 
@@ -113,7 +115,6 @@ Results
 
 -Delivered actionable insights via an interactive dashboard
 
-
-Conclusion
+## Conclusion
 
 This project demonstrates an end-to-end data analytics and machine learning workflow, transforming raw healthcare data into predictive insights and business-ready recommendations.
